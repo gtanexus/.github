@@ -9,8 +9,8 @@ https://docs.gtanexus.gg/
         <a href="https://www.gtanexus.gg/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=zZOGZz&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
         <a href="https://www.gtanexus.gg/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=WonkarioDev&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
         <a href="https://www.gtanexus.gg/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Manuel2028&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-        <a href="https://www.gtanexus.gg/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=edgarqs&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
         <a href="https://www.gtanexus.gg/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=BerlinESP&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+        <a href="https://www.gtanexus.gg/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=edgarqs&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 </div>
 
 ## Comunidad
